@@ -1,0 +1,7 @@
+[package]
+name="first-order-motion"
+vendor="aidmodels"
+
+[[solvers]] 
+name="VideoConverterSolver"
+class="first_order_motion/solver/VideoConverterSolver"
